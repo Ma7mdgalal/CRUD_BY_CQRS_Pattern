@@ -1,0 +1,11 @@
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\bin\Debug\net10.0\Domain.dll
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\bin\Debug\net10.0\Domain.pdb
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\obj\Debug\net10.0\Domain.dll
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\obj\Debug\net10.0\Domain.pdb
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Domain\obj\Debug\net10.0\ref\Domain.dll

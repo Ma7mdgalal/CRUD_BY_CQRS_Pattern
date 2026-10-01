@@ -1,0 +1,17 @@
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\bin\Debug\net10.0\Infrastructure.deps.json
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\bin\Debug\net10.0\Infrastructure.dll
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\bin\Debug\net10.0\Infrastructure.pdb
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\bin\Debug\net10.0\Application.dll
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\bin\Debug\net10.0\Domain.dll
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\bin\Debug\net10.0\Application.pdb
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\bin\Debug\net10.0\Domain.pdb
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\obj\Debug\net10.0\Infrastructure.dll
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
+D:\Backend_learning\Design Pattern Implementation with C#\CRUD_BY_CQRS_Pattern\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll
