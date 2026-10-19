@@ -1,40 +1,35 @@
 @baseUrl = https://localhost:7020
 
-### GET api/todos
+### List todos
 GET {{baseUrl}}/api/todos
 
-### GET todo By id /api/todos/id
-
 @todoId = d7ea2d05-9c79-444f-8413-08df06132d16
-GET {{baseUrl}}/api/todos/d7ea2d05-9c79-444f-8413-08df06132d16
 
-### POST Create Todo /api/todos
+### Get a todo by ID
+GET {{baseUrl}}/api/todos/{{todoId}}
 
+### Create a todo
 POST {{baseUrl}}/api/todos
 Content-Type: application/json
 
 {
-   
+  "title": "Buy groceries"
 }
 
-### PUT Create Todo /api/todos
-
+### Update a todo
 PUT {{baseUrl}}/api/todos
 Content-Type: application/json
 Accept: application/json
 
 {
-    "id":"d7ea2d05-9c79-444f-8413-08df06132d16",
-    "title":"Fix Another Laptob",
-    "completed": true
+  "id": "{{todoId}}",
+  "title": "Buy groceries",
+  "completed": true
 }
 
-### DELETE api/todos/id
-### POST Create Todo /api/todos
-
-DELETE  {{baseUrl}}/api/todos/d7ea2d05-9c79-444f-8413-08df06132d16
+### Delete a todo
+DELETE {{baseUrl}}/api/todos/{{todoId}}
 Accept: application/json
-
 
 
 

@@ -4,4 +4,4 @@ using MediatR;
 
 namespace Application.Todos.Queries.GetTodoById;
 
-public sealed record GetTodoByIdQuery(Guid Id) : IRequest<Todo?>;
+public sealed record GetTodoByIdQuery(Guid Id) : IRequest<Todo>;
